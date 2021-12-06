@@ -27,3 +27,5 @@ fun main() {
     println("car is ${car2.name} it has ${car2.tyer} ,and it has engine of ${car2.engineType}")
 
 }
+
+class de()
